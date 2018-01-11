@@ -8,50 +8,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:921033181868:android:1a73731debeb0ddf",
-        "android_client_info": {
-          "package_name": "com.example.navuser.sidcreations"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "921033181868-gd5mefkf9diq9q0p6mvitdrfj7cn2cor.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.navuser.sidcreations",
-            "certificate_hash": "90bf18d46131ee05d6e847d6e42adcd826928de2"
-          }
-        },
-        {
-          "client_id": "921033181868-69v9fru880g1aieitpclk2b7lk1dc357.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAg4qfFcXwzVB-z0CDtP5r-_GqjCfp6tO4"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "921033181868-69v9fru880g1aieitpclk2b7lk1dc357.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:921033181868:android:d6b00d7d803b030f",
         "android_client_info": {
           "package_name": "com.example.ankit.sidcreations"
